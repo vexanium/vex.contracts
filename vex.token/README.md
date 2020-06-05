@@ -1,7 +1,7 @@
-vex.token
+vex.token version 1.5
 -----------
 
-This vex contract allows users to create, issue, and manage tokens on
-vex based blockchains.
+This vexanium contract allows users to create, issue, and manage tokens on
+vexanium based blockchains.
 
 
