@@ -12,3 +12,6 @@
 <p>Exemple for unlock wallet:</strong></p>
 <div class="gatsby-highlight" data-language="shell"><pre class="language-shell"><code class="language-shell">./cleos wallet unlock --password PW5Kewn9L76X8Fpd....................t42S9XCw2</code></pre></div>
 <p>PW5Kewn9L76X8Fpd....................t42S9XCw2 change password using your password</strong></p>
+<p>after wallet unlocked you can import key, follow this command:</p>
+<div class="gatsby-highlight" data-language="shell"><pre class="language-shell"><code class="language-shell">./cleos wallet impport --private-key 5KGmA3882fZiK.........qe2mG5k2i2</code></pre></div>
+<p>5KGmA3882fZiK.........qe2mG5k2i2 change using your key</p>
